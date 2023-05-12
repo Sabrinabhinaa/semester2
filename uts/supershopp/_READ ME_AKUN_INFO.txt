@@ -1,0 +1,11 @@
+<!--=*= ADMIN INFO =*=-->
+
+localhost......./admin
+Root Admin
+email	: asep@gmail.com
+pass	: asep123
+
+localhost......./
+pelangan
+email	: asep@gmail.com
+pass	: asep123
